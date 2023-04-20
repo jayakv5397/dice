@@ -1,0 +1,54 @@
+html, body{
+    margin: 0;
+}
+
+/* 
+.navbar{
+    background-color: blue;
+    color: white;
+} */
+
+.explain{
+    text-align: center;
+    margin: 5% 0;
+}
+
+#bg{
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+}
+
+
+.brand{
+    width: 25px;
+}
+
+.dice{
+    text-align: center;
+    /* width: 50px; */
+    width: 70%;
+    margin: 5% auto;
+}
+
+
+#current-dice{
+    width: 50%;
+    float: right;
+}
+
+#current-dices{
+    width: 50%;
+    float: left;
+}
+
+
+
+.reload{
+    text-align: center;
+    margin: 5% auto;
+}
+
+#hidden{
+    color: white;
+}
